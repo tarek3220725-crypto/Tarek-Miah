@@ -1,5 +1,5 @@
 package com.priya.ai
-import android.Manifest as M
+import android.Manifest.permission as M
 import android.app.Activity
 import android.content.*
 import android.content.pm.PackageManager
